@@ -1,2 +1,3 @@
 # demo
-qr-code
+
+qr-code!
